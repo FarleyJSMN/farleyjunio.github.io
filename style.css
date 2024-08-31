@@ -1,0 +1,35 @@
+body{
+    background-image: url(/Technologia.jpg); /*Fundo de imagem*/
+}
+
+div{
+    text-align: center; /*Deixando a div no centro*/
+}
+
+#id-ol{
+    display: inline;
+}
+
+#id-al{
+    color: white;
+    text-decoration: none;
+}
+
+.cabecalho{
+    color: white;
+    text-align: start;
+}
+
+.paragrafo{
+    font-size: large;
+    color: azure;
+    text-decoration: none;
+}
+
+form{
+    color: white;
+}
+
+button>a{
+    text-decoration: none;
+}
